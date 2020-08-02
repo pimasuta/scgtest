@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0vAxmeXxv7cu8WV1BUxdXGrksVJlVkHbus+aAI65Nao3KTk/9upEm9NUMEcu6OKH4uZBIyci7IEHXx8myr20SA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ppp_p\\source\\repos\\pimasuta\\scgtest\\RestaurantList\\RestaurantList\\RestaurantList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ppp_p\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
